@@ -1,0 +1,2 @@
+# typora
+typore_notebook
